@@ -1,11 +1,11 @@
 {
-    "name": "fonbet_striker",
-    "short_name": "fonbet_striker",
+    "name": "Champion: Football Hero",
+    "short_name": "Champion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Champion: Football Hero",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -1,6 +1,6 @@
-# fonbet_striker
+# Champion: Football Hero
 
-A new Flutter project.
+Flutter app (package name `fonbet_striker` in `pubspec.yaml`).
 
 ## Getting Started
 

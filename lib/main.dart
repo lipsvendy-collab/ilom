@@ -1,7 +1,6 @@
 // ============================================================
-//  main.dart — STRIKER [v5.3] — WHITE/BLUE THEME
+//  main.dart — Champion: Football Hero [v5.3] — WHITE/BLUE THEME
 //  Penalty Kick Football RPG
-//  OneSignal Key: 9d1bd494-b526-4994-9ec6-502a678c5dc5
 //  API URL: https://totalonlinesport.win/Malin
 // ============================================================
 
@@ -19,14 +18,6 @@ import 'package:image_picker/image_picker.dart';
 const _kOfferUrl = ''; // твой прямой URL https://totalonlinesport.win/Malin
 
 bool _offerShownThisSession = false;
-
-Future<void> initOneSignal() async {
-
-}
-
-Future<void> requestPermissions() async {
-  
-}
 
 // ══════════════════════════════════════════════
 //  GAME CONSTANTS — WHITE/BLUE/LIGHT-BLUE PALETTE
